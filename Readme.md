@@ -10,6 +10,7 @@ _To-do list for Jelly Bean Mini Project_
 
 ## Private Notes and Lists
 
+
 ### ROM
  * Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1
  * Fix video recording
@@ -33,17 +34,24 @@ _To-do list for Jelly Bean Mini Project_
  * Forgot all wifi network
  * Kernel changelog from kernel in settings
  * Honeycomb lockscreen
- * Tablet mode
  * LCD density change
  * Lockscreen branding depends from LCD density ([LDPI]JBMP / [MDPI]JB Mini Project)
  * Raised brightness widget icon like Auto brightness
- * Fix headsett detection
+ * Fix headset detection
+
+
+### Ramdisk
+ * ___TWRP recovery___ thanks pilu1978
 
 
 ### Kernel
  * I don't know now. I'm tired...
 
-### Recovery
+
+### TWRP Recovery
+ * Built-in update-binary script (haven't got any problem with different update scripts)
+
+### JBMP Recovery
  * Battery indicator change to icon
  * Reorder menus
  * Color themes
