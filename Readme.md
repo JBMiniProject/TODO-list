@@ -12,7 +12,7 @@ _To-do list for Jelly Bean Mini Project_
 
 
 ### ROM
- * Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1
+ * ___Add to frameworks/av patch: https://github.com/dragonzkiller/android_frameworks_av/commit/7591ff5a926006418d5d6ec6350fe49e6884cfc1___
  * __Fix video recording__
  * Update audio system
  * Custom Boot animation
