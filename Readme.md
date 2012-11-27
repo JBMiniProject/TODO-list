@@ -13,11 +13,11 @@ _To-do list for Jelly Bean Mini Project_
 
 ### ROM
  * ___Fix video recording___
- * Update audio system
+ * ___Update audio system___
  * Custom Boot animation
  * Custom Boot audio
  * Boot animation preview
- * Reduce system volume
+ * ___Reduce system volume___
  * About in JBMini settings (developers, forum links)
  * SMS split
  * Tabbed StatusBar (Quick switches)
