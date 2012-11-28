@@ -34,7 +34,7 @@ _To-do list for Jelly Bean Mini Project_
  * Kernel changelog from kernel in settings
  * Honeycomb lockscreen
  * LCD density change
- * Lockscreen branding depends from LCD density ([LDPI]JBMP / [MDPI]JB Mini Project)
+ * ___Lockscreen branding depends on LCD density ([LDPI]JBMP / [MDPI]JB Mini Project)___
  * Raised brightness widget icon like Auto brightness
  * ___Fix headset detection___
 
