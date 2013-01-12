@@ -48,7 +48,7 @@ _To-do list for Jelly Bean Mini Project_
 
 
 ### TWRP Recovery
- * Built-in update-binary script (haven't got any problem with different update scripts)
+ * ___Built-in update-binary script (haven't got any problem with different update scripts)___
 
 ### JBMP Recovery
  * Battery indicator change to icon
