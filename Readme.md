@@ -26,8 +26,6 @@ _To-do list for Jelly Bean Mini Project_
  * Sense Lockscreen
  * Rings Lockscreen
  * Brightness slider in Notification area
- * Camera/Silence on Lockscreen
- * Color icons in Global actions
  * 4 tabbed slider lockscreen
  * Bottom statusbar option
  * Forgot all wifi network
@@ -38,17 +36,6 @@ _To-do list for Jelly Bean Mini Project_
  * Raised brightness widget icon like Auto brightness
  * ___Fix headset detection___
 
-
-### Ramdisk
- * ___TWRP recovery___ thanks pilu1978
-
-
-### Kernel
- * I don't know now. I'm tired...
-
-
-### TWRP Recovery
- * ___Built-in update-binary script (haven't got any problem with different update scripts)___
 
 ### JBMP Recovery
  * Battery indicator change to icon
