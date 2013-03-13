@@ -21,7 +21,7 @@ _To-do list for Jelly Bean Mini Project_
  * About in JBMini settings (developers, forum links)
  * SMS split
  * Tabbed StatusBar (Quick switches)
- * SWAP settings
+ * ___SWAP settings___
  * Custom vibrate
  * Sense Lockscreen
  * Rings Lockscreen
