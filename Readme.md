@@ -10,7 +10,6 @@ _To-do list for JB Mini Project_
 
 ## Private Notes and Lists
 
- * Custom Boot animation
  * Boot animation preview
  * SMS split
  * Tabbed StatusBar (Quick switches)
@@ -34,6 +33,7 @@ _To-do list for JB Mini Project_
  * __Make portrait layout for BlackBerry10 lockscreen__
  * __Make portrait layout for HTC Sense lockscreen__
  * __Make portrait layout for Panasonic Eluga lockscreen__
+ * ___Custom Boot animation___
  * ___Fix video recording___
  * ___Update audio system___
  * ___Reduce system volume___
