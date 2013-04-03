@@ -12,7 +12,6 @@ _To-do list for JB Mini Project_
 
  * Custom Boot animation
  * Boot animation preview
- * About in JBMini settings (developers, forum links)
  * SMS split
  * Tabbed StatusBar (Quick switches)
  * Custom vibrate
@@ -25,7 +24,6 @@ _To-do list for JB Mini Project_
  * LG Optimus 4X lockscreen
  * Samsung Galaxy Note lockscreen
  * Honeycomb lockscreen
- * __Fix Xperia S layout__
  * __Fix BlackBerry10 layout__
  * __Add calendar and music widget to Acer CloudMobile lockscreen__
  * __Add calendar and music widget to BlackBerry10 lockscreen__
@@ -43,3 +41,5 @@ _To-do list for JB Mini Project_
  * ___Sense Lockscreen___
  * ___Lockscreen branding depends on LCD density ([LDPI]JBMP / [MDPI]JB Mini Project)___
  * ___Fix headset detection___
+ * ___About in JBMini settings (developers, forum links)___
+ * ___Fix Xperia S layout___
