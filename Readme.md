@@ -43,3 +43,4 @@ _To-do list for JB Mini Project_
  * ___Fix headset detection___
  * ___About in JBMini settings (developers, forum links)___
  * ___Fix Xperia S layout___
+ * ___Blacklist___
