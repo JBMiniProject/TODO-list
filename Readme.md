@@ -24,7 +24,6 @@ _To-do list for JB Mini Project_
  * LG Optimus 4X lockscreen
  * Samsung Galaxy Note lockscreen
  * Honeycomb lockscreen
- * __Fix BlackBerry10 layout__
  * __Add calendar and music widget to Acer CloudMobile lockscreen__
  * __Add calendar and music widget to BlackBerry10 lockscreen__
  * __Add calendar and music widget to HTC Sense lockscreen__
@@ -44,3 +43,4 @@ _To-do list for JB Mini Project_
  * ___About in JBMini settings (developers, forum links)___
  * ___Fix Xperia S layout___
  * ___Blacklist___
+ * ___Fix BlackBerry10 layout___
