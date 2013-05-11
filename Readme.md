@@ -12,13 +12,9 @@ _To-do list for JB Mini Project_
 
  * Custom Boot animation
  * Boot animation preview
- * SMS split
  * Tabbed StatusBar (Quick switches)
  * Custom vibrate
- * Brightness slider in Notification area
  * 4 tabbed slider lockscreen
- * Forgot all wifi network
- * Kernel changelog from kernel in settings
  * LCD density change
  * Raised brightness widget icon like Auto brightness
  * LG Optimus 4X lockscreen
@@ -29,10 +25,6 @@ _To-do list for JB Mini Project_
  * __Add calendar and music widget to HTC Sense lockscreen__
  * __Add calendar and music widget to Panasonic Eluga lockscreen__
  * __Add calendar and music widget to Samsung Galaxy SIII lockscreen__
- * __Make portrait layout for Acer CloudMobile lockscreen__
- * __Make portrait layout for BlackBerry10 lockscreen__
- * __Make portrait layout for HTC Sense lockscreen__
- * __Make portrait layout for Panasonic Eluga lockscreen__
  * ___Fix video recording___
  * ___Update audio system___
  * ___Reduce system volume___
@@ -44,3 +36,4 @@ _To-do list for JB Mini Project_
  * ___Fix Xperia S layout___
  * ___Blacklist___
  * ___Fix BlackBerry10 layout___
+ * ___Forgot all wifi network___
