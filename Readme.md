@@ -12,7 +12,6 @@ _To-do list for JB Mini Project_
 
  * Custom Boot animation
  * Boot animation preview
- * Tabbed StatusBar (Quick switches)
  * Custom vibrate
  * 4 tabbed slider lockscreen
  * LCD density change
@@ -37,3 +36,4 @@ _To-do list for JB Mini Project_
  * ___Blacklist___
  * ___Fix BlackBerry10 layout___
  * ___Forgot all wifi network___
+ * ___Tabbed StatusBar (Quick switches)___
