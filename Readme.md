@@ -19,11 +19,11 @@ _To-do list for JB Mini Project_
  * LG Optimus 4X lockscreen
  * Samsung Galaxy Note lockscreen
  * Honeycomb lockscreen
- * __Add calendar and music widget to Acer CloudMobile lockscreen__
- * __Add calendar and music widget to BlackBerry10 lockscreen__
- * __Add calendar and music widget to HTC Sense lockscreen__
- * __Add calendar and music widget to Panasonic Eluga lockscreen__
- * __Add calendar and music widget to Samsung Galaxy SIII lockscreen__
+ * ___Add calendar and music widget to Acer CloudMobile lockscreen___
+ * ___Add calendar and music widget to BlackBerry10 lockscreen___
+ * ___Add calendar and music widget to HTC Sense lockscreen___
+ * ___Add calendar and music widget to Panasonic Eluga lockscreen___
+ * ___Add calendar and music widget to Samsung Galaxy SIII lockscreen___
  * ___Fix video recording___
  * ___Update audio system___
  * ___Reduce system volume___
